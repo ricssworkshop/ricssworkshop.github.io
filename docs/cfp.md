@@ -22,11 +22,12 @@ All papers discussing ICS and its application security are solicited for submiss
 
 **Submission**
 
-For its first edition, RICSS workshop accepts three types of contributions. All papers must be written in English and must not exceed 10 pages (full) and 6 pages (short) using the IEEE conference proceeding template (excluding references and appendices). Reviewers are not required to read the appendices. Submissions must be in PDF format. Submissions are anonymous. It is the authors' responsibility to ensure that their anonymity is preserved when citing their own work.
+For its first edition, RICSS workshop accepts three types of contributions. All papers must be written in English and must not exceed 10 pages (full) and 6 pages (short) using the IEEE conference proceeding [template](https://eurosp2023.ieee-security.org/eurosp2023-template.zip) (excluding references and appendices). Reviewers are not required to read the appendices. Submissions must be in PDF format. Submissions are anonymous. It is the authors' responsibility to ensure that their anonymity is preserved when citing their own work.
 - **Full paper**: Traditional research papers with novel contributions, must be no longer than 10 pages, including all figures. 
 - **Short paper**: The proposal should consist of a title, abstract, and brief motivation for and description of the idea. The proposal can describe an ongoing research in various stages, or a novel idea or challenge, without proof-of-concept or preliminary results. The aim is to allow the authors to refine their ideas via the feedback from the workshop audience, to stimulate more research ideas, and to encourage collaborations. Submitted proposals must be no longer than 6 pages, including all figures. 
 - **Presentation** of previously accepted papers: Authors of previously accepted papers (that are of interest to the workshop) can resubmit their papers to be able to present them in the workshop. For such contributions, there is no page limitation on the submission, and anonymization is not necessary.
 
+Papers must be submitted at https://easychair.org/conferences/?conf=ricss2023 and may be updated at any time until the submission deadline expires.
 
 
 **Publication and presentation**
