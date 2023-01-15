@@ -7,12 +7,9 @@ title: Organization
 
 
 ## Workshop co-chairs
--
--
+- Ruimin Sun (Florida International University)
+- Mu Zhang (University of Utah)
 
 ## Program committee
 
--
--
 
-This page is going to be updated.

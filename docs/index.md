@@ -11,7 +11,7 @@ RICSS will take place in July, 2023, in Delft, Netherlands, co-located with [IEE
 
 ## Aim and Scope: 
 
-Industrial Control System (ICS) and its software touches every aspect of the critical infrastructure used by our industry, academia, and government. Back in the days, these systems and software were not designed with security in mind. With the ever expanding interconnectivity of ICS environments and new threats, practitioners are stuck on a patchwork of security. While certain proprietary ICS software manufacturers have started to provide security solutions, free and open source ICS software is often less known. The goal of the workshop is twofold: we want to collect ideas on redesigning (parts of) the ICS ecosystem so that security is built-in by design; we also invite contributions on designing, incorporating, and maintaining secure open-source ICS software.
+Industrial Control System (ICS) and its software touches every aspect of the critical infrastructure used by our industry, academia, and government. Back in the days, these systems and software were not designed with security in mind. With the ever expanding interconnectivity of ICS environments and new threats, practitioners are stuck on a patchwork of security. While certain proprietary ICS software manufacturers have started to provide security solutions, free and open source ICS software is often less known. The **goal** of the workshop is twofold: *we want to collect ideas on redesigning (parts of) the ICS ecosystem so that security is built-in by design; we also invite contributions on designing, incorporating, and maintaining secure open-source ICS software.*
 
 
 ## Important Dates
@@ -21,6 +21,10 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 - Notification: May 10, 2023
 - Camera-ready version: June 1, 2023
 - Workshop: July, 2023
+
+## Contact
+
+Contact RICSS chair Ruimin Sun at rsun@fiu.edu. 
 
 
 

@@ -6,9 +6,9 @@ title: Program
 
 # Program
 
-**Format**: The RICSS workshop is planned to be held **in person**. 
+**Format**: The RICSS workshop is planned to be held **in person** (tentative). 
 <!-- The presenters will be one of the authors of accepted papers. There will also be a keynote speaker and a selection of invited speakers. -->
 
 **Duration**: half-day
 
-Programs are going to be updated.
+Programs are available soon.
