@@ -32,6 +32,11 @@ title: Organization
 - [Tom Chothia](https://www.cs.bham.ac.uk/~tpc/),&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *University of Birmingham*
 - [Ziming Zhao](https://zzm7000.github.io/),&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *University at Buffalo*
 
+## Contact
+
+Please contact the chairs at [ricss2023@easychair.org](mailto: ricss2023@easychair.org)
+
+
 <!-- 
 <table style="height:25px">
 <colgroup>
