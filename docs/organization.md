@@ -11,12 +11,13 @@ title: Organization
 - [Mu Zhang](https://sites.google.com/site/muzhang82/), &emsp;&emsp;&emsp;&emsp;&emsp; *University of Utah*
 
 ## Program committee
-
-- [Aolin	Ding](https://www.linkedin.com/in/aolinding),&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *Accenture*  
+- [Ali Abbasi](https://ali-abbasi.info/),&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;*CISPA Helmholtz Center for Information Security*
+- [Aolin Ding](https://www.linkedin.com/in/aolinding),&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *Accenture*  
 - [Bo Chen](https://pages.mtu.edu/~bchen/),&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Michigan Technological University*
 - [Francesco	Restuccia](https://www.linkedin.com/in/francesco-restuccia-phd-05062a128/),&nbsp;&nbsp;*UC San Diego* 
 - [Habiba Farrukh](https://habiba-farrukh.github.io/),&emsp;&emsp;&emsp;*Purdue University*
-- [Indrakshi	Ray](https://www.cs.colostate.edu/~iray/),&emsp;&emsp;&emsp;&nbsp;&nbsp; *Colorado State University*
+- [Indrakshi Ray](https://www.cs.colostate.edu/~iray/),&emsp;&emsp;&emsp;&nbsp;&nbsp; *Colorado State University*
+- [Kemal Akkaya](https://web.eng.fiu.edu/kakkaya/),&emsp;&emsp;&emsp;&nbsp;&nbsp; *Florida International University* 
 - [Luis Garcia](https://lagarcia.us/),&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; *University of Southern California*
 - [Marcus Botacin](https://marcusbotacin.github.io/), &emsp;&emsp;&nbsp;*Texas A&M University*
 - [Matthias Eckhart](https://www.sba-research.org/team/matthias-eckhart/),&emsp;&nbsp;&nbsp;&nbsp; *SBA Research and University of Vienna*
@@ -30,6 +31,7 @@ title: Organization
 - [Stefano Longari](https://ascarecrowhat.github.io/), &emsp;&emsp;&nbsp; *Politecnico di Milano*
 - [Taegyu Kim](https://tgkim.gitlab.io/),&emsp;&emsp;&emsp;&emsp;&nbsp; *Pennsylvania State University*
 - [Tom Chothia](https://www.cs.bham.ac.uk/~tpc/),&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *University of Birmingham*
+- [Yan Meng](https://yan4meng.github.io/),&emsp;&emsp;&emsp;&emsp;&emsp; *Shanghai Jiao Tong University*
 - [Ziming Zhao](https://zzm7000.github.io/),&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *University at Buffalo*
 
 ## Contact

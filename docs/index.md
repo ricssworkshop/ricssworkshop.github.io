@@ -16,11 +16,10 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 
 ## Important Dates
 
-- Call for papers: Feb 1, 2023
 - Submission deadline: April 20, 2023
 - Notification: May 10, 2023
 - Camera-ready version: June 1, 2023
-- Workshop: July, 2023
+- Workshop: July 7, 2023
 
 ## Contact
 

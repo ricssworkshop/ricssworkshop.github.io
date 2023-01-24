@@ -20,6 +20,13 @@ All papers discussing ICS and its application security are solicited for submiss
 - Intrusion detection and prevention solutions for ICS software
 - Emerging threats to ICS
 
+**Important Dates**
+
+- Submission deadline: April 20, 2023
+- Notification: May 10, 2023
+- Camera-ready version: June 1, 2023
+- Workshop: July 7, 2023
+
 **Submission**
 
 For its first edition, RICSS workshop accepts three types of contributions. All papers must be written in English and the paper length should range from 4 to 8 pages using the [IEEE conference proceeding template](https://eurosp2023.ieee-security.org/eurosp2023-template.zip) (excluding references and appendices). Reviewers are not required to read the appendices. Submissions must be in PDF format. Submissions are anonymous. It is the authors' responsibility to ensure that their anonymity is preserved when citing their own work.
