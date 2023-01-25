@@ -27,6 +27,7 @@ title: Organization
 - [Neetesh Saxena](https://sites.google.com/site/neeteshsaxena/home),&emsp;&emsp;&nbsp;*Cardiff University*
 - [Ozgur	Ozmen](https://ozgurozmen.github.io/),&emsp;&emsp;&emsp;&nbsp; *Purdue University*
 - [Qingzhao Zhang](https://zqzqz.github.io/),&emsp;&emsp;&nbsp;*University of Michigan*
+- [Richard James Thomas](http://research.rjthomas.io),*University of Birmingham*
 - [Saman	Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz),&emsp;&emsp;&nbsp;&nbsp;&nbsp; *Georgia Tech*
 - [Stefano Longari](https://ascarecrowhat.github.io/), &emsp;&emsp;&nbsp; *Politecnico di Milano*
 - [Taegyu Kim](https://tgkim.gitlab.io/),&emsp;&emsp;&emsp;&emsp;&nbsp; *Pennsylvania State University*
