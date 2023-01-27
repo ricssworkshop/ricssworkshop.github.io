@@ -25,6 +25,7 @@ title: Organization
 - [Ming Li](https://ranger.uta.edu/~mingli/),&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *University of Texas at Arlington*
 - [Mohammad A. Islam](https://crystal.uta.edu/~mislam/),&nbsp;&nbsp;*University of Texas at Arlington*
 - [Neetesh Saxena](https://sites.google.com/site/neeteshsaxena/home),&emsp;&emsp;&nbsp;*Cardiff University*
+- [Nils Ole	Tippenhauer](https://cispa.de/en/people/nils.tippenhauer/),&nbsp;*CISPA Helmholtz Center for Information Security*
 - [Ozgur	Ozmen](https://ozgurozmen.github.io/),&emsp;&emsp;&emsp;&nbsp; *Purdue University*
 - [Qingzhao Zhang](https://zqzqz.github.io/),&emsp;&emsp;&nbsp;*University of Michigan*
 - [Richard James Thomas](http://research.rjthomas.io),*University of Birmingham*
