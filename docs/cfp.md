@@ -8,7 +8,7 @@ title: Call For Papers
 All papers discussing ICS and its application security are solicited for submission. RICSS particularly welcomes position papers which propose provocative thoughts on how (parts of) the current ICS system could be re-envisioned for security. This includes proposals that may compromise today’s ICS reliability to improve its security tomorrow. We also welcome proposals discussing the challenges in designing, incorporating, and maintaining secure open-source ICS software.
 
 All accepted papers and presentations will be considered for **Best Paper Award** and **Best Presentation Award**. 
-  The winner and runner-up will be nominated by the program committee and the authors. 
+  The winner and runner-up will be nominated by the program committee and the authors. Travel grants for students might be available.
 
 **Topics of interest include, but are not limited to, the following:**
 - ICS, PLC, IIoT security mechanism design
@@ -25,7 +25,7 @@ All accepted papers and presentations will be considered for **Best Paper Award*
 
 **Important Dates**
 
-- Submission deadline: April 20, 2023
+- Submission deadline: ~~April 20, 2023~~ <span style="color:red">May 7, 2023</span>
 - Notification: May 10, 2023
 - Camera-ready version: June 1, 2023
 - Workshop: July 7, 2023
