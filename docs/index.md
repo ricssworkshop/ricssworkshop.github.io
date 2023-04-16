@@ -23,7 +23,7 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 
 ## Contact
 
-Please contact the chairs at [ricss2023@easychair.org](mailto: ricss2023@easychair.org)
+Please contact the chairs at [ricss2023@easychair.org](mailto:ricss2023@easychair.org)
 
 
 
