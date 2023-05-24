@@ -27,7 +27,7 @@ All accepted papers and presentations will be considered for **Best Paper Award*
 
 - Submission deadline: ~~April 20, 2023~~ <span style="color:red">May 7, 2023</span>
 - Notification: ~~May 12, 2023~~ <span style="color:red">May 21, 2023</span>
-- Camera-ready version: May 24, 2023
+- Camera-ready version: ~~May 24, 2023~~ <span style="color:red">May 31, 2023</span>
 - Workshop: July 7, 2023
 
 **Submission**
