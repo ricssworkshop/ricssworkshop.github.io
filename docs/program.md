@@ -53,7 +53,8 @@ Richard Derbyshire (Orange Cyberdefense), Sam Maesschalck (Lancaster University)
 - **The Bandit’s States: Modeling State Selection for Stateful Network Fuzzing as Multi-armed Bandit Problem**
 Anne Borcherding (Fraunhofer Institute of Optronics), Mark Leon Giraud (Fraunhofer Institute of Optronics), Ian Fitzgerald (Karlsruhe Institute of Techonology) and Jürgen Beyerer (Karlsruhe Institute of Techonology)
 
-- **To me, to you: Towards Secure PLC Programming through a Community-Driven Open-Source Initiative**
+
+- **<span style="color:red">[Best Presentation Award]</span> To me, to you: Towards Secure PLC Programming through a Community-Driven Open-Source Initiative**
 Richard Derbyshire (Orange Cyberdefense), Sam Maesschalck (Lancaster University), Alexander Staves (Lancaster University), Benjamin Green (Lancaster University) and David Hutchison (Lancaster University). 
 
 - **Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems**
@@ -62,8 +63,7 @@ Xu Zheng (Florida International University), Tianchun Wang (Pennsylvania State U
 - **Re-Envisioning Industrial Control Systems Security by Considering Human Factors as a Core Element of Defense-in-Depth**
 Jens Pottebaum (Paderborn University), Jost Rossel (Paderborn University), Juraj Somorovsky (Paderborn University), Yasemin Acar (Paderborn University), Rene Fahr (Paderborn University), Patricia Arias Cabarcos (Paderborn University), Eric Bodden (Paderborn University) and Iris Gräßler (Paderborn University).
 
-
-- **The Case for Virtual PLC-enabled Honeypot Design**
+- **<span style="color:red">[Best Paper Award]</span> The Case for Virtual PLC-enabled Honeypot Design**
 Samin Y. Chowdhury (Florida International University), Brandon Dudley (Dragos, Inc.) and Ruimin Sun (Florida International University).
 
 ------------------------------------------------------
