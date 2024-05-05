@@ -32,7 +32,7 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 - Submission deadline: Aug. 1, 2024 
 - Notification: Aug. 20, 2024 
 - Camera-ready version: Sept. 5, 2024 
-- Workshop: Oct. 14 - 18, 2024
+- Workshop: Oct. 14, 2024
 
 ## Contact
 
