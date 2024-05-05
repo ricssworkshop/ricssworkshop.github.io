@@ -36,7 +36,8 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 
 ## Contact
 
-Please contact the chairs at [ricss2024@hotcrp.org](mailto:rsun@fiu.edu)
+Contacts will be updated later.
+<!-- Please contact the chairs at [ricss2024@hotcrp.org](mailto:rsun@fiu.edu) -->
 
 
 
