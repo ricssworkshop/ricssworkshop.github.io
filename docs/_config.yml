@@ -18,12 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "RICSS 2023"
+collections:
+  y2023:
+    output: true
+    permalink: /2023/:name
+
+
+title: "RICSS 2024"
 header_pages:
   - organization.md
   - cfp.md
   - program.md
   - register.md
+  - past
 author: "Ruimin Sun"  
 email: "rsun@fiu.edu"
 description: >- # this means to ignore newlines until "baseurl:"
