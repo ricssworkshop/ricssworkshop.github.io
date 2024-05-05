@@ -30,7 +30,7 @@ header_pages:
   - cfp.md
   - program.md
   - register.md
-  - past
+  - past.md
 author: "Ruimin Sun"  
 email: "rsun@fiu.edu"
 description: >- # this means to ignore newlines until "baseurl:"

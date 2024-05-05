@@ -5,9 +5,22 @@
 layout: default
 ---
 
-# The 1st International Workshop on Re-design Industrial Control Systems with Security (RICSS)
+<!-- # 2024 📈  Stonk 📈 2024 📈
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> -->
 
-RICSS will take place on July 7, 2023, in Delft, Netherlands, co-located with [IEEE EuroS&P 2023](https://eurosp2023.ieee-security.org/index.html). 
+
+# The 2nd International Workshop on Re-design Industrial Control Systems with Security (RICSS)
+
+RICSS will take place on October 14-18, 2024, in Salt Lake City, U.S.A., co-located with [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html). 
 
 ## Aim and Scope: 
 
@@ -16,14 +29,14 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 
 ## Important Dates
 
-- Submission deadline: ~~April 20, 2023~~ <span style="color:red">May 7, 2023</span>
-- Notification: ~~May 12, 2023~~ <span style="color:red">May 21, 2023</span>
-- Camera-ready version: ~~May 24, 2023~~ <span style="color:red">May 31, 2023</span>
-- Workshop: July 7, 2023
+- Submission deadline: Aug. 1, 2024 
+- Notification: Aug. 20, 2024 
+- Camera-ready version: Sept. 5, 2024 
+- Workshop: Oct. 14 - 18, 2024
 
 ## Contact
 
-Please contact the chairs at [ricss2023@easychair.org](mailto:ricss2023@easychair.org)
+Please contact the chairs at [ricss2024@hotcrp.org](mailto:rsun@fiu.edu)
 
 
 
