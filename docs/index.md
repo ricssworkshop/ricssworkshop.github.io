@@ -3,24 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+home_picture: /assets/reduced_background_logo.jpg
 ---
 
-<!-- # 2024 📈  Stonk 📈 2024 📈
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> -->
-
+<!-- ![image](assets/Campus-Fall-Panorama.jpg) -->
 
 # The 2nd International Workshop on Re-design Industrial Control Systems with Security (RICSS)
 
-RICSS will take place on October 14-18, 2024, in Salt Lake City, U.S.A., co-located with [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html). 
+RICSS will take place on October 14, 2024, in Salt Lake City, U.S.A., co-located with [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html). 
 
 ## Aim and Scope: 
 
@@ -36,8 +26,6 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 
 ## Contact
 
-Contacts will be updated later.
-<!-- Please contact the chairs at [ricss2024@hotcrp.org](mailto:rsun@fiu.edu) -->
-
-
+<!-- Contacts will be updated later. -->
+Please contact the chairs: [Ruimin Sun](mailto:rsun@fiu.edu) and [Mu Zhang](mailto:muzhang@cs.utah.edu).  
 

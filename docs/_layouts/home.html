@@ -3,8 +3,12 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- if page.home_picture -%}
+  has picture
+  {% assign style = "background-image: "+ url({{page.home_picture}})%}
+    <div style="background-image: url({{page.home_picture}});"></div>
+  {% else%}
+  No picture
   {%- endif -%}
 
   {{ content }}

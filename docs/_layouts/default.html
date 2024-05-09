@@ -8,6 +8,9 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
+      {% if page.home_picture %}
+      <img src="{{page.home_picture}}" style="padding-bottom: 2%;">
+      {% endif %}
       <div class="wrapper">
         {{ content }}
       </div>

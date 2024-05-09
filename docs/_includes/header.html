@@ -12,9 +12,12 @@
     {%- if possible_page_year >= 2023 -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">Back to {{ site.title | escape }}</a> 
     <br/> 
-    <a class="site-title" rel="author" href="/{{ possible_page_year }}/">RICSS {{possible_page_year}}</a>
+    <a class="site-title" rel="author" href="/{{ possible_page_year }}/">RICSS</a>
     {%- else -%}
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        <img src="/assets/ricss.png"/ height="25em" style="margin-bottom: 5%;padding-right: 2px;">
+      </a>  
+      <!-- {{ site.year | escape }} -->
     {%- endif -%}
     
 
