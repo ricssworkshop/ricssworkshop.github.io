@@ -9,3 +9,15 @@
 .page-content {
   padding-top: 0;
 }
+
+table tr:nth-child(even) {
+  background-color: inherit;
+}
+
+table td {
+  border: none;
+}
+
+table {
+  border: none;
+}

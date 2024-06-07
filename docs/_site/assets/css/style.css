@@ -226,3 +226,10 @@ table td { border: 1px solid #e8e8e8; }
 
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
+.page-content { padding-top: 0; }
+
+table tr:nth-child(even) { background-color: inherit; }
+
+table td { border: none; }
+
+table { border: none; }
