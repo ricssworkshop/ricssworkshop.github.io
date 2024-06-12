@@ -16,16 +16,17 @@ title: Organization
 ## Program committee
 
 
-| [Ziming Zhao](mailto:ziming.zhao@gmail.com) | University at Buffalo |
-| [Neetesh Saxena](mailto:saxenan4@cardiff.ac.uk) | Cardiff University |
-| [Muslum Ozgur Ozmen](mailto:mozmen@purdue.edu) | Arizona State University |
-| [Bo Chen](mailto:bchen@mtu.edu) | Michigan Technological University |
-| [Marcus Botacin](mailto:botacin@tamu.edu) | Texas A&M University |
-| [Taegyu Kim](mailto:tgkim@psu.edu) | Pennsylvania State University |
-| [Aolin Ding](mailto:a.ding@accenture.com) | Accenture Labs |
-| [Stefano Longari](mailto:stefano.longari@polimi.it) | Politecnico di Milano |               
-| [Saman Zonouz](mailto:saman.zonouz@gatech.edu) | Georgia Tech |
-| [Yan Meng](mailto:yan_meng@sjtu.edu.cn) | Shanghai Jiao Tong University |
-| [Matthias Eckhart](mailto:meckhart@sba-research.org) | SBA Research & University of Vienna |
-| [Qingzhao Zhang](mailto:qzzhang@umich.edu) | University of Michigan |
-| [Luis Garcia](mailto:la.garcia@utah.edu) | University of Utah |
+| [Ziming Zhao](https://zzm7000.github.io/) | University at Buffalo |
+| [Neetesh Saxena](https://profiles.cardiff.ac.uk/staff/saxenan4) | Cardiff University |
+| [Muslum Ozgur Ozmen](https://ozgurozmen.github.io/) | Arizona State University |
+| [Bo Chen](https://pages.mtu.edu/~bchen/) | Michigan Technological University |
+| [Marcus Botacin](https://marcusbotacin.github.io/) | Texas A&M University |
+| [Taegyu Kim](https://tgkim.gitlab.io) | Pennsylvania State University |
+| [Aolin Ding](https://aolind.github.io/) | Accenture Labs |
+| [Stefano Longari](https://ascarecrowhat.github.io) | Politecnico di Milano |               
+| [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz) | Georgia Tech |
+| [Yan Meng](https://yan4meng.github.io/) | Shanghai Jiao Tong University |
+| [Matthias Eckhart](https://www.sba-research.org/team/matthias-eckhart/) | SBA Research & University of Vienna |
+| [Qingzhao Zhang](https://zqzqz.github.io/) | University of Michigan |
+| [Luis Garcia](https://lagarcia.us) | University of Utah |
+| [Yuede Ji]((https://yuede.github.io/)) | The University of Texas at Arlington |
