@@ -25,8 +25,8 @@ All accepted papers and presentations will be considered for **Best Paper Award*
 
 **Important Dates**
 
-- Submission deadline: Aug. 1, 2024 
-- Notification: Aug. 20, 2024 
+- Submission deadline: ~~Aug. 1, 2024~~ <span style="color:red">Aug. 15, 2024</span>
+- Notification: ~~Aug. 20, 2024~~ <span style="color:red">Aug. 30, 2024</span>
 - Camera-ready version: Sept. 5, 2024 
 - Workshop: Oct. 14, 2024
 
