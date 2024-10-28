@@ -18,7 +18,7 @@ Gargi Mitra, Pritam Dash, Yingao (Elaine) Yao, Aastha Mehta, Karthik Pattabirama
 - **"There are rabbit holes I want to go down that I'm not allowed to go down": An Investigation of Security Expert Threat Modeling Practices for Medical Devices**
 Ronald E. Thompson, Madeline McLaughlin, Carson Powers, Daniel Votipka (Tufts University)
 
-- **On Practical Realization of Evasion Attacks for Industrial Control Systems**
+- **<span style="color:red">[Best Paper Award]</span> On Practical Realization of Evasion Attacks for Industrial Control Systems**
 Alessandro Erba (Karlsruhe Institute of Technology (KIT)); Andres Murillo (Fujitsu); Riccardo Taormina (TU Delft); Stefano Galelli (Cornell); Nils Ole Tippenhauer (CISPA Helmholtz Center for Information Security)
 
 - **Risk-Based Methodology for Optimal Cryptoperiod Calculation in ICSs Under Data Siphoning Attack**
@@ -45,7 +45,7 @@ Van Phan (University of Central Florida); Ruimin Sun, Mohammed Al Duniawi (Flori
 ------------------------------------------------------
 ### 13:30am - 15: 00pm Afternoon Session I <!--- 4 talks -->
 
-- **Score and You Shall Find: A Novel Regularization Technique for Cyberattack Detection in Industrial Control Systems**
+- **<span style="color:red">[Best Paper Award]</span> Score and You Shall Find: A Novel Regularization Technique for Cyberattack Detection in Industrial Control Systems**
 Tatsumi Oba (Panasonic Holdings Corporation); Tadahiro Taniguchi (Kyoto University); Naoto Yanai (Panasonic Holdings Corporation)
 
 - **Context-Aware Intrusion Detection in Industrial Control Systems**
@@ -54,7 +54,7 @@ Md Raihan Ahmed, Mu Zhang (University of Utah)
 - **Comparing the Security Approaches of CIP and OPC UA**
 Alexander Gebhard, Debbie Perouli (Marquette University)
 
-- **By the Numbers: Towards Standard Evaluation Metrics for Programmable Logic Controllers' Defenses**
+- **<span style="color:red">[Best Presentation Award]</span> By the Numbers: Towards Standard Evaluation Metrics for Programmable Logic Controllers' Defenses**
 Efrén López-Morales, Jacob Hopkins (Texas A&M University-Corpus Christi); Alvaro A. Cardenas (University of California, Santa Cruz); Ali Abbasi (CISPA Helmholtz Center for Information Security); Carlos Rubio-Medrano (Texas A&M University-Corpus Christi)
 
 ------------------------------------------------------
@@ -69,8 +69,8 @@ Kasturi Routray, Padmalochan Bera (IIT Bhubaneswar)
 - **Towards Cross-Physical-Domain Threat Inference for Industrial Control System Defense Adaptation**
 Jainta Paul, Lawrence Ponce, Mu Zhang, Luis Garcia (University of Utah)
 
-- **Comparison of Industrial Control System Anomaly Detection Methods**
-Piotr (Sobonski); Utz (Roedig)
+- **<span style="color:red">[Best Presentation Award]</span> Comparison of Industrial Control System Anomaly Detection Methods**
+Piotr Sobonski (Collins Aerospace Applied Research and Technology); Utz Roedig (University College Cork)
 
 
 ------------------------------------------------------
