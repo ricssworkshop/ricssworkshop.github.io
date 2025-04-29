@@ -22,10 +22,13 @@ collections:
   y2023:
     output: true
     permalink: /2023/:name
+  y2024:
+    output: true
+    permalink: /2024/:name
 
 
-title: "RICSS 2024"
-year: 2024
+title: "RICSS 2025"
+year: 2025
 header_pages:
   - organization.md
   - cfp.md

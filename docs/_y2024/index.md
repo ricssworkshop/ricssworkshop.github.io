@@ -3,14 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-home_picture: /assets/reduced_background_logo.jpg
+home_picture: /assets/reduced_background_logo_24.jpg
 ---
 
 <!-- ![image](assets/Campus-Fall-Panorama.jpg) -->
 
-# The 3rd International Workshop on Re-design Industrial Control Systems with Security (RICSS)
+# The 2nd International Workshop on Re-design Industrial Control Systems with Security (RICSS)
 
-RICSS will take place on October 13-17, 2025, in Taipei, Taiwan, co-located with [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/). 
+RICSS will take place on October 14, 2024, in Salt Lake City, U.S.A., co-located with [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html). 
 
 ## Aim and Scope: 
 
@@ -19,10 +19,10 @@ Industrial Control System (ICS) and its software touches every aspect of the cri
 
 ## Important Dates
 
-- Submission deadline: **July. 1, 2025**
-- Notification: Aug. 8, 2025
-- Camera-ready version: Aug. 20, 2025 
-- Workshop: Oct. tbd, 2025
+- Submission deadline: ~~Aug. 1, 2024~~ <span style="color:red">Aug. 15, 2024</span>
+- Notification: ~~Aug. 20, 2024~~ <span style="color:red">Aug. 30, 2024</span>
+- Camera-ready version: Sept. 5, 2024 
+- Workshop: Oct. 14, 2024
 
 ## Contact
 

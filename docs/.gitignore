@@ -1,1 +1,5 @@
 .DS_Store
+_site/
+_site/*.html
+_site/2023/*html
+_site/2024/*html

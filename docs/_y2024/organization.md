@@ -15,8 +15,7 @@ title: Organization
 
 ## Program committee
 
-TBD
-<!-- 
+
 | [Ziming Zhao](https://zzm7000.github.io/) | University at Buffalo |
 | [Neetesh Saxena](https://profiles.cardiff.ac.uk/staff/saxenan4) | Cardiff University |
 | [Muslum Ozgur Ozmen](https://ozgurozmen.github.io/) | Arizona State University |
@@ -30,4 +29,4 @@ TBD
 | [Matthias Eckhart](https://www.sba-research.org/team/matthias-eckhart/) | SBA Research & University of Vienna |
 | [Qingzhao Zhang](https://zqzqz.github.io/) | University of Michigan |
 | [Luis Garcia](https://lagarcia.us) | University of Utah |
-| [Yuede Ji]((https://yuede.github.io/)) | The University of Texas at Arlington | -->
+| [Yuede Ji]((https://yuede.github.io/)) | The University of Texas at Arlington |

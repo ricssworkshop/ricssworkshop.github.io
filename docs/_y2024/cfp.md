@@ -25,15 +25,10 @@ All accepted papers and presentations will be considered for **Best Paper Award*
 
 **Important Dates**
 
-<!-- - Submission deadline: ~~Aug. 1, 2025~~ <span style="color:red">Aug. 15, 2025</span>
-- Notification: ~~Aug. 20, 2025~~ <span style="color:red">Aug. 30, 2025</span>
-- Camera-ready version: Sept. 5, 2025 
-- Workshop: Oct. 14, 2025 -->
-
-- Submission deadline: **July. 1, 2025**
-- Notification: Aug. 8, 2025
-- Camera-ready version: Aug. 20, 2025 
-- Workshop: Oct. tbd, 2025
+- Submission deadline: ~~Aug. 1, 2024~~ <span style="color:red">Aug. 15, 2024</span>
+- Notification: ~~Aug. 20, 2024~~ <span style="color:red">Aug. 30, 2024</span>
+- Camera-ready version: Sept. 5, 2024 
+- Workshop: Oct. 14, 2024
 
 **Submission**
 
@@ -42,7 +37,7 @@ For its first edition, RICSS workshop accepts two types of contributions. All pa
 
 - **Presentation** of previously accepted papers: Authors of previously accepted papers (that are of interest to the workshop) can *resubmit* their papers to be able to present them in the workshop. For such contributions, there is no page limitation on the submission, and anonymization is not necessary.
 
-Papers must be submitted at [HotCRP](https://ricss25.hotcrp.com/) and may be updated at any time until the submission deadline expires.
+Papers must be submitted at [HotCRP](https://ricss24.hotcrp.com/) and may be updated at any time until the submission deadline expires.
 
 
 **Publication and presentation**

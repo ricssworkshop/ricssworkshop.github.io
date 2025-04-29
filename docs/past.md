@@ -5,4 +5,7 @@ title: Past Workshops
 link_control: past
 ---
 
+# Past Workshops
+
 ## [RICSS 2023](/2023/)
+## [RICSS 2024](/2024/)

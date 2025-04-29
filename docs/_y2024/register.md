@@ -6,7 +6,7 @@ title: Registration
 
 # Registration
 
-RICSS will take place on October 13 - 17, 2025, in Taipei, Taiwan, co-located with [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/).  
+RICSS will take place on October 14, 2024, in Salt Lake City, U.S.A., co-located with [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).  
 
 <!-- The registration details will be updated later. -->
 <!-- can be found [here](https://eurosp2023.ieee-security.org/registration.html). -->
