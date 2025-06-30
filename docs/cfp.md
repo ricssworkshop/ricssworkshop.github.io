@@ -30,8 +30,8 @@ All accepted papers and presentations will be considered for **Best Paper Award*
 - Camera-ready version: Sept. 5, 2025 
 - Workshop: Oct. 14, 2025 -->
 
-- Submission deadline: **July. 1, 2025**
-- Notification: Aug. 8, 2025
+- Submission deadline: ~~July 1, 2025~~ <span style="color:red">July 15, 2025</span>
+- Notification: ~~Aug. 8, 2025~~ <span style="color:red">Aug. 15, 2025</span>
 - Camera-ready version: Aug. 20, 2025 
 - Workshop: Oct. 13, 2025
 

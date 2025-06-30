@@ -15,7 +15,7 @@ title: Organization
 
 ## Program committee
 
-TBD
+
 <!-- 
 | [Ziming Zhao](https://zzm7000.github.io/) | University at Buffalo |
 | [Neetesh Saxena](https://profiles.cardiff.ac.uk/staff/saxenan4) | Cardiff University |
@@ -31,3 +31,20 @@ TBD
 | [Qingzhao Zhang](https://zqzqz.github.io/) | University of Michigan |
 | [Luis Garcia](https://lagarcia.us) | University of Utah |
 | [Yuede Ji]((https://yuede.github.io/)) | The University of Texas at Arlington | -->
+
+|	[Bo Chen](https://pages.mtu.edu/~bchen/)	|Michigan Technological University		|			
+|	[Marcus Botacin](https://marcusbotacin.github.io/)	|Texas A&M University|			
+|	[Francesco Restuccia](https://frestucc.github.io/)	|University of California San Diego		|				
+|	[Max Taylor](https://maxtaylor.dev/)	|Idaho National Laboratory		|								
+|	[Muslum Ozgur Ozmen](https://ozgurozmen.github.io/)	|Arizona State University	|				
+|	[Neetesh Saxena](https://profiles.cardiff.ac.uk/staff/saxenan4)	|Cardiff University	|				
+|	[Qingzhao Zhang](https://zqzqz.github.io/)	|University of Michigan			|						
+|	[Stefano Longari](https://ascarecrowhat.github.io)	| Politecnico di Milano	|				
+|	[Taegyu Kim](https://tgkim.gitlab.io) |	The Pennsylvania State University |
+
+
+## Artifact committee
+
+TBD
+
+
