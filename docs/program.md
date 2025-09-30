@@ -23,7 +23,7 @@ title: Program
 - *Paper Type: Regular Paper*
 
 - **Design and Detection of Covert Man-in-the-Middle Cyberattacks on Water Treatment Plants**
-- Authors: Victor Mattos, João Henrique Schmidt, Amit Bhaya (UFRJ); Alan Oliveira de Sá (LASIGE, Faculdade de Ciencias, Universidade de Lisboa); Daniel Sadoc Menasché (UFRJ); Gaurav S. (Corporation unspecified)
+- Authors: Victor Mattos, João Henrique Schmidt, Amit Bhaya (UFRJ); Alan Oliveira de Sá (LASIGE, Faculdade de Ciencias, Universidade de Lisboa); Daniel Sadoc Menasché (UFRJ); Gaurav S. (Siemens)
 - *Paper Type: Regular Paper*
 
 
